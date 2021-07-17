@@ -1,0 +1,2 @@
+# oculus-vr-mesh-slicer
+I developed a VR project for the Oculus Quest where you can slice or cut meshes using a saw. Unlike my previous project, you can cut the mesh at any angle or from any place, not only the middle. This was done using Unity and C#. The slicing was done using C# scripts that calculated vertices, triangles, uvs, normals, and more to be able to create the slicing effect and generate two objects when slicing.
